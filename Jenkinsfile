@@ -4,7 +4,7 @@ pipeline {
           stage("Checkout") {
                steps {
                     echo 'hello massimo 1'
-                    echo 'hello massimo 98'
+                    echo 'hello massimo 00'
                }
           }
      }
